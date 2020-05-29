@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: #!/pstupka/dev
+title: Stup
 
 # Short description of your site
 description: Simple personal website
@@ -13,10 +13,10 @@ author: Patryk Stupka
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://pstupka.github.io"
+  Projects:
+    - Song of the day: "/projects/songoftheday"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
